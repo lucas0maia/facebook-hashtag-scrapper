@@ -35,4 +35,4 @@ for i in range(100):
     
     
     driver.execute_script("window.scrollTo(0, 100000)")
-    time.sleep(0.8) #Você pode alterar o tempo de delay. Um tempo muito baixo vai dar erro
+    time.sleep(1.0) #Você pode alterar o tempo de delay. Um tempo muito baixo vai dar erro
