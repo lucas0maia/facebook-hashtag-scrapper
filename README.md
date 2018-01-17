@@ -1,7 +1,8 @@
 #FACEBOOK HASHTAG SCRAPPER
 
 WebScrapper para hashtags públicas do Facebook
-A API não permite mais fazer esse tipo de consulta, então se torna necessário fazer esse tipo de raspagem direto no html
-Essa é uma versão inicial. Posteriormente irei criar uma função que facilite o trabalho de colocar os dados em csv.
+A API não permite mais fazer esse tipo de consulta, então se torna necessário fazer uma raspagem direto no html para ter acesso estruturado a esses dados.
+
+Possui uma função que devolve as postagens de determinada hashtag como uma lista e como sujestão de uso gera um arquivo CSV . 
 
 Por: Lucas Cavalcanti Maia - Estudante de Jornalismo interessado em jornalismo de dados
